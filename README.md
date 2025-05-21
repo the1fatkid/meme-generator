@@ -18,6 +18,9 @@ A fun and interactive meme generator built using **React**! This project demonst
 - **JavaScript (ES6+)**
 - **HTML5 & CSS3**
 
+## 📽️ Demo
+Check out the live demo of the Meme Generator App [here](https://the1fatkid.github.io/meme-generator/).
+
 
 ## 📝 How It Works
 
