@@ -36,7 +36,7 @@ Check out the live demo of the Meme Generator App [here](https://the1fatkid.gith
 
 ## 📦 Installation & Usage
 
-1. Clone the repo:
+1. **Clone the repo**:
    ```bash
    git clone https://github.com/the1fatkid/meme-generator.git
    ```
